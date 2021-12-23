@@ -1,3 +1,63 @@
-body {
-  background: orange;
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.body {
+  background: #eeeeee;
+}
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.contact .inner .head {
+  color: black;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.contact .connect-btn {
+  color: white;
+  font-weight: 500;
+  font-size: 16px;
+  background: black;
+  padding: 16px;
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+  text-align: center;
+}
+.contact .connect-btn {
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+}
+.contact .connect-btn {
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: black;
+}
+
+.contact .connect-btn {
+  color: black;
+  font-weight: 500;
+  font-size: 16px;
+  background: black;
+  padding: 16px;
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.update-component .inner .bottom a {
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: underline;
 }
